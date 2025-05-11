@@ -1,0 +1,9 @@
+python基础学习笔记使用的软件是vscode
+进一步使用的是jupyternotebook
+1_basic_knowledge 主要是关于python的最基础的知识：python的数据类型及常见操作等等
+2_circu_func 主要是关于python的循环以及函数的使用方式
+3_modu_file 主要是关于python模块与文件，包含模块的导入、python包、文件的读取等方法
+4_with_object 主要是关于python面向对象 面向对象的三大主要特征：封装、继承、多态
+5_library_exer 主要是关于python常见的标准库的描述  以及一个python小练习
+6_ssh_envs 主要是关于如何通过windows使用ssh连接远程服务器，以及在服务器配置python基础环境，安装miniconda以及新建、激活、删除环境等
+作者：xny
